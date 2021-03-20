@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import filedialog
 import csv
 import os
-# cd C:\Users\joaqu\Desktop\GUI_PROJECT
 
 class Imgbutton(Canvas):
 
