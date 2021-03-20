@@ -4,8 +4,8 @@ Keep your favorite apps in a smart dock ready for my upcoming product, the "Mini
 ![minidock](https://user-images.githubusercontent.com/63688331/111854360-1adff680-88dc-11eb-8ffe-e4e5e5f576ba.PNG)
 
 ### Instructions:
-1. Download the repository as a zip file from the top right corner of this GitHub.
-      <img src="https://user-images.githubusercontent.com/63688331/111854413-67c3cd00-88dc-11eb-9c78-c9f91cbb4b71.jpg" width="400" height="300">
+1. Download the repository as a zip file from the top right corner of this GitHub. 
+      <img src="https://user-images.githubusercontent.com/63688331/111855319-85dffc00-88e1-11eb-8823-efe1014e0b1a.png" width="400" height="300">
       
 3. Open the cmd and cd into your Desktop by pasting the following command:
   > cd Desktop
