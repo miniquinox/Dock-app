@@ -6,7 +6,6 @@ Keep your favorite apps in a smart dock ready for my upcoming product, the "Mini
 ### Instructions:
 1. Download the repository as a zip file from the top right corner of this GitHub.
     <img src="https://user-images.githubusercontent.com/63688331/111855319-85dffc00-88e1-11eb-8823-efe1014e0b1a.png" width="238" height="204"> 
-
 2. Download the images of the apps you want to use from here:
       > https://icon-icons.com/pack/Internet-2020/2201
 6. Select 256pix and PNG to download and save the images in the "dist folder". Name them with the name of the app with no spaces, and all lower case.
