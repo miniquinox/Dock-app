@@ -16,5 +16,7 @@ Keep your favorite apps in a smart dock ready for my upcoming product, the "Mini
     > <img src="https://user-images.githubusercontent.com/63688331/111855616-2125a100-88e3-11eb-861a-46a4e9952fb5.PNG" width="222" height="121"> 
 7. Open the apps.csv file with excel (or notepad) and replace the plus sign with any app you want by just typing its name the same way you wrote it for your images and shortcuts. Here is how ours looks like!
     > <img src="https://user-images.githubusercontent.com/63688331/111856045-516e3f00-88e5-11eb-8bb7-b35ca9836def.PNG" width="315" height="58"> 
-    
+Ps: This program only allows 5 images at the moment. If you don't plan on using one of the spaces, fill the corresponding cell in "apps.csv" with a + sign.
+
+## Ready to Dock!!!
 
