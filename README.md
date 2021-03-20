@@ -8,7 +8,7 @@ Keep your favorite apps in a smart dock ready for my upcoming product, the "Mini
     > <img src="https://user-images.githubusercontent.com/63688331/111855319-85dffc00-88e1-11eb-8823-efe1014e0b1a.png" width="238" height="204"> 
 2. Download the images of the apps you want to use from here:
       > https://icon-icons.com/pack/Internet-2020/2201
-3. Select 256pix and PNG to download the images. Save them in the "dist folder". Name them with the name of the app with no spaces, and all lower case.
+3. Select 256pix and PNG to download the images. Save them in the "dist" folder. Name them with the name of the app with no spaces, and all lower case.
 4. Open the Applications folder by pressing Win + R and then pasting the following command:
       > shell:AppsFolder
 5. Drag and drop the apps you want to use to your dist folder and rename the shortcut to the name of the app without spaces, and all lower case.
